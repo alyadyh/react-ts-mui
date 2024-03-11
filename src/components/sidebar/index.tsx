@@ -9,11 +9,6 @@ const navLinks = [
   {
     name: "Home",
     icon: homeIcon,
-    link: "/home",
-  },
-  {
-    name: "Login",
-    icon: homeIcon,
     link: "/",
   },
   {
@@ -27,9 +22,9 @@ const navLinks = [
     link: "/tv-series",
   },
   {
-    name: "Bookmarks",
+    name: "Bookmark",
     icon: bookmarkIcon,
-    link: "/bookmarks",
+    link: "/bookmark",
   },
 ];
 
